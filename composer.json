@@ -1,0 +1,19 @@
+{
+    "name": "acelan/simple-jwt",
+    "type": "library",
+    "description": "Json Web Token for PHP",
+    "authors": [
+        {
+            "name": "吳正偉",
+            "email": "s17113107@stu.edu.tw"
+        }
+    ],
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jsnlib": "src"
+        }
+    }
+}
