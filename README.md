@@ -4,7 +4,7 @@ Json Web Token for PHP
 ## Installation
 
 ```bash
-composer install acelan/simple-jwt
+composer require acelan/simple-jwt
 ```
 
 ## Usage
