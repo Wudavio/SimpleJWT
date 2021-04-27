@@ -2,6 +2,11 @@
     "name": "acelan/simple-jwt",
     "type": "library",
     "description": "Json Web Token for PHP",
+    "minimum-stability":"dev",
+    "keywords": [
+        "php",
+        "jwt"
+    ],
     "authors": [
         {
             "name": "吳正偉",
@@ -9,7 +14,7 @@
         }
     ],
     "require": {
-        "php": ">=7.3"
+        "php": ">=7.2"
     },
     "autoload": {
         "psr-4": {
